@@ -1,0 +1,33 @@
+(;SZ[19];B[dp];W[pd];B[ec];W[pq];B[po];W[pl];B[mp];W[oo];B[on];W[no];B[pp];W[nq];B[qq];W[oq];B[nn];W[mo];B[rp];W[jq];B[qf];W[qh];B[nd];W[pf];B[pg];W[of];B[qg];W[qe];B[og];W[ng];B[nf];W[ne];B[mf];W[me];B[lf];W[nh];B[oi];W[le];B[ke];W[od];B[kd];W[oh];B[ph];W[pi];B[qi];W[pj];B[rh];W[qj];B[rj];W[nj];B[oe];W[pe];B[nc];W[ob];B[kg];W[rk];B[sk];W[sl];B[sj];W[ql];B[rm];W[qn];B[rl];W[pn];B[qk];W[rn];B[pk];W[nl];B[oj];W[ro];B[pr];W[rr];B[qr];W[or];B[nk];W[mk];B[ol];W[om];B[ok];W[nm];B[ml];W[ll];B[mj];W[mm];B[de];W[cn];B[bo];W[ck];B[fq];W[ch];B[bn];W[ep];B[eq];W[do];B[co];W[fp];B[gp];W[dq];B[cp];W[go];B[gq];W[ho];B[cm];W[lj];B[mi];W[ce];B[cd];W[df];B[ee];W[be];B[fo];W[fn];B[eo];W[ef];B[fe];W[cc];B[dc];W[bc];B[ff];W[lc];B[ld];W[nb];B[ip];W[kc];B[jc];W[jb];B[ib];W[kb];B[ic];W[iq];B[hp];W[jn];B[jo];W[ko];B[in];W[io];B[jp];W[im];B[kn];W[jm];B[kp];W[kq];B[lo];W[fg];B[lq];W[lr];B[mr];W[mq];B[kr];W[lp];B[sr];W[lq];B[rs];W[md];B[dk];W[cl];B[dl];W[dm];B[dn];W[em];B[fl];W[gm];B[dh];W[ci];B[fh];W[gg];B[eg];W[dg];B[eh];W[gh];B[gi];W[hi];B[gj];W[hj];B[di];W[gk];B[cj];W[bj];B[dj];W[bk];B[fm];W[en];B[el];W[gn];B[hh];W[hg];B[ih];W[fi];B[fj];W[fk];B[ei];W[ek];B[hk];W[gl];B[ij];W[ej];B[ii];W[fi];B[re];W[rd];B[rf];W[jf]C[white:
+	left=47
+	upper=24
+	bottom=20
+total = 91 + komi 5.5 = 96.5
+
+black: 
+	left bottom=31
+	right bottom=6
+	upper & side=46
+total = 83
+	];B[kf]C[the following is what my assumption about the end game.  	];W[he];B[kk];W[lk];B[li];W[hc];B[hb];W[gc];B[gb];W[fc];B[fb]C[white can be more agressive. ](;W[id];B[mc];W[oe];B[ja];W[mb];B[ka];W[lb];B[sd];W[sc];B[se];W[rc];B[hr];W[ir];B[cb];W[bb];B[da];W[kj];B[jk];W[ki];B[kh];W[jg];B[jh];W[la];B[ia];W[op];B[qp];W[ba];B[hl];W[hm];B[ln];W[mn];B[bl];W[al];B[bm];W[ca];B[db];W[il];B[ik];W[gf];B[ig];W[if];B[ge];W[bd];B[dd];W[sn];B[sm];W[sp];B[sq];W[hs];B[gs];W[is];B[os];W[ns];B[ps];W[hq];B[gr];W[qm];B[am];W[ak];B[fd];W[hd];B[je];W[ie];B[kl];W[km]C[white: 
+left & bottom: 45 + 20 
+upper right: 22
+total: 87 + komi
+
+black: 
+leftbottom: 32. 
+right corner: 5
+upper&side: 41
+total: 78. 
+
+komi: 5.5])(;W[jg];B[jh];W[hr];B[gr];W[db];B[eb];W[cb];B[id];W[ge];B[mc];W[oe];B[ja];W[mb];B[ka];W[lb];B[sd];W[sc];B[se];W[rc];B[kj];W[je];B[jd]C[black: 
+up: 42
+lb: 32
+lc:  6
+total: 80. 
+
+white: 
+left: 49
+bottom: 21
+up: 21
+total: 91 + 5.5]))
